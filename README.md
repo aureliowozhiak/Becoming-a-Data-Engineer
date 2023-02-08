@@ -21,3 +21,6 @@ Existem algumas opções para quem quer entrar no mundo do desenvolvimento de so
 4 - **Participação em projetos open-source:** Contribuir para projetos open-source pode ser uma ótima maneira de adquirir experiência prática em programação e construir um portfólio.
 
 Nada disso é regra, mas acredito que sirva de um bom norte para entender melhor sobre as opções que existem nesse mundo.
+
+
+📗 [Ebook: Introdução à Engenharia de Dados](https://docs.google.com/document/d/1mZBCm6gwgXHTmdEVkWiVw3iccGw2a2V0o7B4Jw9hkVY/edit?usp=sharing)
