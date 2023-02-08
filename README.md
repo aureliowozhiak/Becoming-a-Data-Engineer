@@ -2,10 +2,6 @@
 
 Aqui você encontra algumas dicas de como se tornar um engenheiro de dados com uma ótima base de computação, matemática e outras coisas essenciais para progredir na carreira.
 
-## Quem sou eu?
-
-Primeiramente, meu nome é [Marcos Aurelio](https://aureliowozhiak.com/), nasci em 1998, e atualmente sou Engenheiro de Dados Sênior, mas já trabalhei como Analista de Dados, Analista de Sistemas de CRM , Desenvolvedor Back-end e também trabalhei na área educacional ensinando matemática, física e programação.
-
 ## Fazer ou não uma graduação?
 
 Apesar de ter feito uma graduação (tecnólogo em análise e desenvolvimento de sistemas), acredito que não é essencial se formar para trabalhar com desenvolvimento e engenharia de software de forma geral. Muitos profissionais têm sucesso sem uma formação universitária devido a evolução rápida da indústria e a importância da experiência prática ser muito maior do que a teórica. Além disso, há muitas maneiras de aprender e se desenvolver na carreira sem precisar ir à faculdade. 
